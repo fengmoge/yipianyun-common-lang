@@ -1,0 +1,2 @@
+# yipianyun-common-lang
+lang
